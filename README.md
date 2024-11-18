@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Jake Rigney, an 18-year-old programmer who completed my first two years of college durring high school as well as attending West-MEC trade school for programming. I’m now transferring to GCU to finish my bachelor’s in Software Development. I’m passionate about building software, exploring AI, creating scalable solutions, and developing tools for national security and intelligence gathering. I also make music, with over 50k monthly listeners.
 
-(https://www.codewars.com/users/JakeRigney/badges/large)
+[![Codewars](https://www.codewars.com/users/JakeRigney/badges/large)]
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/AzXhZAMvJH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jake__rigney) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@contriverjake) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ContriverJake) 
