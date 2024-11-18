@@ -1,5 +1,5 @@
 # 💫 About Me:
-test
+Hi, I’m Jake Rigney, an 18-year-old programmer who completed my first two years of college durring high school as well as attending West-MEC trade school for programming. I’m now transferring to GCU to finish my bachelor’s in Software Development. I’m passionate about building software, exploring AI, creating scalable solutions, and developing tools for national security and intelligence gathering. I also make music, with over 50k monthly listeners.
 
 
 ## 🌐 Socials:
